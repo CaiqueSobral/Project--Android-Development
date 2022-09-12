@@ -1,6 +1,6 @@
 # Android Projejct
 
-This is a project made for practcing my android development skills using java.
+This is a project made for practicing my android development skills using java.
 ## Authors
 
 - [Caique Sobral](https://www.github.com/caiquesobral)
